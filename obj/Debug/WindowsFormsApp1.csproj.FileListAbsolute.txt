@@ -1,0 +1,44 @@
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Emolod\Em8\c_sharp_proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\домашка\Visual Studio\WinFormProg\bin\Debug\WindowsFormsApp1.exe.config
+D:\домашка\Visual Studio\WinFormProg\bin\Debug\WindowsFormsApp1.exe
+D:\домашка\Visual Studio\WinFormProg\bin\Debug\WindowsFormsApp1.pdb
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.exe
+D:\домашка\Visual Studio\WinFormProg\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Videos\Movavi Screen Recorder\WinFormProg\obj\Debug\WindowsFormsApp1.pdb
+Z:\Project\WinFormProg\bin\Debug\WindowsFormsApp1.exe.config
+Z:\Project\WinFormProg\bin\Debug\WindowsFormsApp1.exe
+Z:\Project\WinFormProg\bin\Debug\WindowsFormsApp1.pdb
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.Form1.resources
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.exe
+Z:\Project\WinFormProg\obj\Debug\WindowsFormsApp1.pdb
