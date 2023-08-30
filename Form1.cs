@@ -22,6 +22,12 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            if (true)
+            {
+
+            }
+
             PlayerType type = 0;
             if (this.radioButton1.Checked == true)
             {
