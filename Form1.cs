@@ -12,6 +12,8 @@ namespace WindowsFormsApp1
         private Player player = null;
         private Engine engine = null;
         private Random random = null;
+        
+
         private Monster monster = null;
         public Form1()
         {
