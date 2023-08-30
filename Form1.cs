@@ -9,7 +9,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        private Player player = null;
+        public Player player = null;
         private Engine engine = null;
         private Random random = null;
         private Monster monster = null;
